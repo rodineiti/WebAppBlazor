@@ -1,2 +1,2 @@
 # WebAppBlazor
-BLAZOR ASP.NET Core - CRUD Tarefas com Api em Laravel
+SPA com BLAZOR ASP.NET Core - CRUD Tarefas com Api em Laravel - Single Page Application
